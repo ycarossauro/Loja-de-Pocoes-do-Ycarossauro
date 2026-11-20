@@ -2,6 +2,8 @@
 
 Vitrine virtual de poções mágicas inspirada em jogos de RPG, desenvolvida exclusivamente com **HTML5** e **CSS3** (sem JavaScript).
 
+Prévia do Empório do Alquimista<img width="1916" height="832" alt="image" src="https://github.com/user-attachments/assets/97f74b2d-3b63-4f20-9dca-10d7680367d5" />
+
 ## 🎯 Objetivo
 Projeto prático criado para introduzir desenvolvimento web a adolescentes, ensinando na prática como estruturar conteúdo e estilizar uma interface moderna e responsiva.
 
